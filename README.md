@@ -1,2 +1,2 @@
 # CPSC415
-A repository for the class CPSC-415-F15
+A test repository for the class CPSC-415-F15.
